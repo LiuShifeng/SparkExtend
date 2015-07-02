@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/InterestTFIDF.scala" line="130" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/InterestTFIDF.scala" line="253" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33bc9bec-0c35-446e-a4c6-441a529a17a1" name="Default" comment="" />
+    <ignored path="ClosenesswithSimilarity.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ClosenesswithSimilarity" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="InterestTFIDF.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/InterestTFIDF.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.0577888" vertical-offset="3760" max-vertical-offset="5922">
+              <caret line="239" column="58" selection-start-line="239" selection-start-column="58" selection-end-line="239" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServIdProfile.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ServIdProfile.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="4305">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_InterestTFIDF.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/run_InterestTFIDF.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attenuationVector.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/attenuationVector.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Similarity.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Similarity.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1743">
+              <caret line="461" column="99" selection-start-line="461" selection-start-column="99" selection-end-line="461" selection-end-column="99" />
+              <folding>
+                <element signature="n#!!doc;n#InterestVector$#0" expanded="false" />
+                <element signature="e#138#4131#1" expanded="false" />
+                <element signature="e#4154#4224#0" expanded="false" />
+                <element signature="e#4154#4450#0" expanded="false" />
+                <element signature="e#4348#4435#0" expanded="false" />
+                <element signature="e#4366#4429#0" expanded="false" />
+                <element signature="e#4454#4648#0" expanded="false" />
+                <element signature="e#4454#4830#0" expanded="false" />
+                <element signature="e#4769#4815#0" expanded="false" />
+                <element signature="e#4834#6349#0" expanded="false" />
+                <element signature="e#5086#5119#0" expanded="false" />
+                <element signature="e#5144#5180#0" expanded="false" />
+                <element signature="e#5206#5243#0" expanded="false" />
+                <element signature="e#5269#5306#0" expanded="false" />
+                <element signature="e#5502#5535#0" expanded="false" />
+                <element signature="e#5560#5596#0" expanded="false" />
+                <element signature="e#5622#5659#0" expanded="false" />
+                <element signature="e#5685#5722#0" expanded="false" />
+                <element signature="e#6353#8732#0" expanded="false" />
+                <element signature="e#6637#6670#0" expanded="false" />
+                <element signature="e#6695#6731#0" expanded="false" />
+                <element signature="e#6757#6794#0" expanded="false" />
+                <element signature="e#6820#6857#0" expanded="false" />
+                <element signature="e#7053#7086#0" expanded="false" />
+                <element signature="e#7111#7147#0" expanded="false" />
+                <element signature="e#7173#7210#0" expanded="false" />
+                <element signature="e#7236#7273#0" expanded="false" />
+                <element signature="e#7469#7502#0" expanded="false" />
+                <element signature="e#7527#7563#0" expanded="false" />
+                <element signature="e#7589#7626#0" expanded="false" />
+                <element signature="e#7652#7689#0" expanded="false" />
+                <element signature="e#7885#7918#0" expanded="false" />
+                <element signature="e#7943#7979#0" expanded="false" />
+                <element signature="e#8005#8042#0" expanded="false" />
+                <element signature="e#8068#8105#0" expanded="false" />
+                <element signature="e#8735#11193#0" expanded="false" />
+                <element signature="e#9034#9067#0" expanded="false" />
+                <element signature="e#9092#9128#0" expanded="false" />
+                <element signature="e#9154#9191#0" expanded="false" />
+                <element signature="e#9217#9254#0" expanded="false" />
+                <element signature="e#9450#9483#0" expanded="false" />
+                <element signature="e#9508#9544#0" expanded="false" />
+                <element signature="e#9570#9607#0" expanded="false" />
+                <element signature="e#9633#9670#0" expanded="false" />
+                <element signature="e#9866#9899#0" expanded="false" />
+                <element signature="e#9924#9960#0" expanded="false" />
+                <element signature="e#9986#10023#0" expanded="false" />
+                <element signature="e#10049#10086#0" expanded="false" />
+                <element signature="e#10282#10315#0" expanded="false" />
+                <element signature="e#10340#10376#0" expanded="false" />
+                <element signature="e#10402#10439#0" expanded="false" />
+                <element signature="e#10465#10502#0" expanded="false" />
+                <element signature="e#11196#13658#0" expanded="false" />
+                <element signature="e#11487#11520#0" expanded="false" />
+                <element signature="e#11545#11581#0" expanded="false" />
+                <element signature="e#11607#11644#0" expanded="false" />
+                <element signature="e#11670#11707#0" expanded="false" />
+                <element signature="e#11903#11936#0" expanded="false" />
+                <element signature="e#11961#11997#0" expanded="false" />
+                <element signature="e#12023#12060#0" expanded="false" />
+                <element signature="e#12086#12123#0" expanded="false" />
+                <element signature="e#12319#12352#0" expanded="false" />
+                <element signature="e#12377#12413#0" expanded="false" />
+                <element signature="e#12439#12476#0" expanded="false" />
+                <element signature="e#12502#12539#0" expanded="false" />
+                <element signature="e#12735#12768#0" expanded="false" />
+                <element signature="e#12793#12829#0" expanded="false" />
+                <element signature="e#12855#12892#0" expanded="false" />
+                <element signature="e#12918#12955#0" expanded="false" />
+                <element signature="e#13661#16132#0" expanded="false" />
+                <element signature="e#13953#13986#0" expanded="false" />
+                <element signature="e#14011#14047#0" expanded="false" />
+                <element signature="e#14073#14110#0" expanded="false" />
+                <element signature="e#14136#14173#0" expanded="false" />
+                <element signature="e#14369#14402#0" expanded="false" />
+                <element signature="e#14427#14463#0" expanded="false" />
+                <element signature="e#14489#14526#0" expanded="false" />
+                <element signature="e#14552#14589#0" expanded="false" />
+                <element signature="e#14785#14818#0" expanded="false" />
+                <element signature="e#14843#14879#0" expanded="false" />
+                <element signature="e#14905#14942#0" expanded="false" />
+                <element signature="e#14968#15005#0" expanded="false" />
+                <element signature="e#15201#15234#0" expanded="false" />
+                <element signature="e#15259#15295#0" expanded="false" />
+                <element signature="e#15321#15358#0" expanded="false" />
+                <element signature="e#15384#15421#0" expanded="false" />
+                <element signature="e#16135#18563#0" expanded="false" />
+                <element signature="e#16428#16461#0" expanded="false" />
+                <element signature="e#16486#16522#0" expanded="false" />
+                <element signature="e#16548#16585#0" expanded="false" />
+                <element signature="e#16611#16648#0" expanded="false" />
+                <element signature="e#16844#16877#0" expanded="false" />
+                <element signature="e#16902#16938#0" expanded="false" />
+                <element signature="e#16964#17001#0" expanded="false" />
+                <element signature="e#17027#17064#0" expanded="false" />
+                <element signature="e#17260#17293#0" expanded="false" />
+                <element signature="e#17318#17354#0" expanded="false" />
+                <element signature="e#17380#17417#0" expanded="false" />
+                <element signature="e#17443#17480#0" expanded="false" />
+                <element signature="e#17676#17709#0" expanded="false" />
+                <element signature="e#17734#17770#0" expanded="false" />
+                <element signature="e#17796#17833#0" expanded="false" />
+                <element signature="e#17859#17896#0" expanded="false" />
+                <element signature="e#18566#18680#0" expanded="false" />
+                <element signature="e#18566#19378#0" expanded="false" />
+                <element signature="e#18780#18797#0" expanded="false" />
+                <element signature="e#18801#19374#0" expanded="false" />
+                <element signature="e#19020#19209#0" expanded="false" />
+                <element signature="e#19254#19275#0" expanded="false" />
+                <element signature="e#19280#19368#0" expanded="false" />
+                <element signature="e#19382#19560#0" expanded="false" />
+                <element signature="e#19382#20117#0" expanded="false" />
+                <element signature="e#19672#19689#0" expanded="false" />
+                <element signature="e#19694#20113#0" expanded="false" />
+                <element signature="e#19759#19834#0" expanded="false" />
+                <element signature="e#19795#19826#0" expanded="false" />
+                <element signature="e#19954#20071#0" expanded="false" />
+                <element signature="e#19990#20063#0" expanded="false" />
+                <element signature="e#20121#20227#0" expanded="false" />
+                <element signature="e#20121#20746#0" expanded="false" />
+                <element signature="e#20332#20349#0" expanded="false" />
+                <element signature="e#20353#20742#0" expanded="false" />
+                <element signature="e#20470#20587#0" expanded="false" />
+                <element signature="e#20628#20649#0" expanded="false" />
+                <element signature="e#20654#20736#0" expanded="false" />
+                <element signature="e#20750#20939#0" expanded="false" />
+                <element signature="e#20750#21579#0" expanded="false" />
+                <element signature="e#21044#21061#0" expanded="false" />
+                <element signature="e#21065#21575#0" expanded="false" />
+                <element signature="e#21221#21324#0" expanded="false" />
+                <element signature="e#21464#21485#0" expanded="false" />
+                <element signature="e#21489#21569#0" expanded="false" />
+                <element signature="e#21583#21692#0" expanded="false" />
+                <element signature="e#21583#22102#0" expanded="false" />
+                <element signature="e#21787#21804#0" expanded="false" />
+                <element signature="e#21808#22098#0" expanded="false" />
+                <element signature="e#21906#22005#0" expanded="false" />
+                <element signature="e#22031#22053#0" expanded="false" />
+                <element signature="e#22057#22092#0" expanded="false" />
+                <element signature="e#22106#22214#0" expanded="false" />
+                <element signature="e#22106#22682#0" expanded="false" />
+                <element signature="e#22309#22326#0" expanded="false" />
+                <element signature="e#22330#22678#0" expanded="false" />
+                <element signature="e#22440#22543#0" expanded="false" />
+                <element signature="e#22598#22619#0" expanded="false" />
+                <element signature="e#22623#22672#0" expanded="false" />
+                <element signature="e#22686#22804#0" expanded="false" />
+                <element signature="e#22686#22929#0" expanded="false" />
+                <element signature="e#22933#23051#0" expanded="false" />
+                <element signature="e#22933#23176#0" expanded="false" />
+                <element signature="e#23202#23373#0" expanded="false" />
+                <element signature="e#23202#32374#0" expanded="false" />
+                <element signature="e#23489#23550#0" expanded="false" />
+                <element signature="e#23555#32370#0" expanded="false" />
+                <element signature="e#26775#26944#0" expanded="false" />
+                <element signature="e#26985#27192#0" expanded="false" />
+                <element signature="e#27233#27478#0" expanded="false" />
+                <element signature="e#27519#27802#0" expanded="false" />
+                <element signature="e#27843#27934#0" expanded="false" />
+                <element signature="e#27975#28066#0" expanded="false" />
+                <element signature="e#28107#28198#0" expanded="false" />
+                <element signature="e#28239#28330#0" expanded="false" />
+                <element signature="e#28371#28462#0" expanded="false" />
+                <element signature="e#28503#28594#0" expanded="false" />
+                <element signature="e#28635#28726#0" expanded="false" />
+                <element signature="e#28767#28858#0" expanded="false" />
+                <element signature="e#28899#28990#0" expanded="false" />
+                <element signature="e#29032#29127#0" expanded="false" />
+                <element signature="e#29169#29264#0" expanded="false" />
+                <element signature="e#29306#29401#0" expanded="false" />
+                <element signature="e#29443#29538#0" expanded="false" />
+                <element signature="e#29580#29675#0" expanded="false" />
+                <element signature="e#29717#29812#0" expanded="false" />
+                <element signature="e#29854#29949#0" expanded="false" />
+                <element signature="e#29991#30086#0" expanded="false" />
+                <element signature="e#30128#30223#0" expanded="false" />
+                <element signature="e#30265#30360#0" expanded="false" />
+                <element signature="e#30402#30497#0" expanded="false" />
+                <element signature="e#30539#30634#0" expanded="false" />
+                <element signature="e#30676#30771#0" expanded="false" />
+                <element signature="e#30813#30908#0" expanded="false" />
+                <element signature="e#32378#32613#0" expanded="false" />
+                <element signature="e#32378#41940#0" expanded="false" />
+                <element signature="e#32731#32792#0" expanded="false" />
+                <element signature="e#32797#41936#0" expanded="false" />
+                <element signature="e#36017#36186#0" expanded="false" />
+                <element signature="e#36227#36434#0" expanded="false" />
+                <element signature="e#36475#36720#0" expanded="false" />
+                <element signature="e#36761#37044#0" expanded="false" />
+                <element signature="e#37085#37176#0" expanded="false" />
+                <element signature="e#37217#37308#0" expanded="false" />
+                <element signature="e#37349#37440#0" expanded="false" />
+                <element signature="e#37481#37572#0" expanded="false" />
+                <element signature="e#37613#37704#0" expanded="false" />
+                <element signature="e#37745#37836#0" expanded="false" />
+                <element signature="e#37877#37968#0" expanded="false" />
+                <element signature="e#38009#38100#0" expanded="false" />
+                <element signature="e#38141#38232#0" expanded="false" />
+                <element signature="e#38274#38369#0" expanded="false" />
+                <element signature="e#38411#38506#0" expanded="false" />
+                <element signature="e#38548#38643#0" expanded="false" />
+                <element signature="e#38685#38780#0" expanded="false" />
+                <element signature="e#38822#38917#0" expanded="false" />
+                <element signature="e#38959#39054#0" expanded="false" />
+                <element signature="e#39096#39191#0" expanded="false" />
+                <element signature="e#39233#39328#0" expanded="false" />
+                <element signature="e#39370#39465#0" expanded="false" />
+                <element signature="e#39507#39602#0" expanded="false" />
+                <element signature="e#39644#39739#0" expanded="false" />
+                <element signature="e#39781#39876#0" expanded="false" />
+                <element signature="e#39918#40013#0" expanded="false" />
+                <element signature="e#40055#40150#0" expanded="false" />
+                <element signature="e#41944#42107#0" expanded="false" />
+                <element signature="e#41944#51192#0" expanded="false" />
+                <element signature="e#42226#42287#0" expanded="false" />
+                <element signature="e#42292#51188#0" expanded="false" />
+                <element signature="e#45512#45681#0" expanded="false" />
+                <element signature="e#45722#45929#0" expanded="false" />
+                <element signature="e#45970#46215#0" expanded="false" />
+                <element signature="e#46256#46539#0" expanded="false" />
+                <element signature="e#46580#46671#0" expanded="false" />
+                <element signature="e#46712#46803#0" expanded="false" />
+                <element signature="e#46844#46935#0" expanded="false" />
+                <element signature="e#46976#47067#0" expanded="false" />
+                <element signature="e#47108#47199#0" expanded="false" />
+                <element signature="e#47240#47331#0" expanded="false" />
+                <element signature="e#47372#47463#0" expanded="false" />
+                <element signature="e#47504#47595#0" expanded="false" />
+                <element signature="e#47636#47727#0" expanded="false" />
+                <element signature="e#47769#47864#0" expanded="false" />
+                <element signature="e#47906#48001#0" expanded="false" />
+                <element signature="e#48043#48138#0" expanded="false" />
+                <element signature="e#48180#48275#0" expanded="false" />
+                <element signature="e#48317#48412#0" expanded="false" />
+                <element signature="e#48454#48549#0" expanded="false" />
+                <element signature="e#48591#48686#0" expanded="false" />
+                <element signature="e#48728#48823#0" expanded="false" />
+                <element signature="e#48865#48960#0" expanded="false" />
+                <element signature="e#49002#49097#0" expanded="false" />
+                <element signature="e#49139#49234#0" expanded="false" />
+                <element signature="e#49276#49371#0" expanded="false" />
+                <element signature="e#49413#49508#0" expanded="false" />
+                <element signature="e#49550#49645#0" expanded="false" />
+                <element signature="e#51196#51372#0" expanded="false" />
+                <element signature="e#51196#60513#0" expanded="false" />
+                <element signature="e#51493#51554#0" expanded="false" />
+                <element signature="e#51559#60509#0" expanded="false" />
+                <element signature="e#54779#54948#0" expanded="false" />
+                <element signature="e#54989#55196#0" expanded="false" />
+                <element signature="e#55237#55482#0" expanded="false" />
+                <element signature="e#55523#55806#0" expanded="false" />
+                <element signature="e#55847#55938#0" expanded="false" />
+                <element signature="e#55979#56070#0" expanded="false" />
+                <element signature="e#56111#56202#0" expanded="false" />
+                <element signature="e#56243#56334#0" expanded="false" />
+                <element signature="e#56375#56466#0" expanded="false" />
+                <element signature="e#56507#56598#0" expanded="false" />
+                <element signature="e#56639#56730#0" expanded="false" />
+                <element signature="e#56771#56862#0" expanded="false" />
+                <element signature="e#56903#56994#0" expanded="false" />
+                <element signature="e#57036#57131#0" expanded="false" />
+                <element signature="e#57173#57268#0" expanded="false" />
+                <element signature="e#57310#57405#0" expanded="false" />
+                <element signature="e#57447#57542#0" expanded="false" />
+                <element signature="e#57584#57679#0" expanded="false" />
+                <element signature="e#57721#57816#0" expanded="false" />
+                <element signature="e#57858#57953#0" expanded="false" />
+                <element signature="e#57995#58090#0" expanded="false" />
+                <element signature="e#58132#58227#0" expanded="false" />
+                <element signature="e#58269#58364#0" expanded="false" />
+                <element signature="e#58406#58501#0" expanded="false" />
+                <element signature="e#58543#58638#0" expanded="false" />
+                <element signature="e#58680#58775#0" expanded="false" />
+                <element signature="e#58817#58912#0" expanded="false" />
+                <element signature="e#60517#60693#0" expanded="false" />
+                <element signature="e#60517#69498#0" expanded="false" />
+                <element signature="e#60802#60863#0" expanded="false" />
+                <element signature="e#60868#69494#0" expanded="false" />
+                <element signature="e#64088#64257#0" expanded="false" />
+                <element signature="e#64298#64505#0" expanded="false" />
+                <element signature="e#64546#64791#0" expanded="false" />
+                <element signature="e#64832#65115#0" expanded="false" />
+                <element signature="e#65156#65247#0" expanded="false" />
+                <element signature="e#65288#65379#0" expanded="false" />
+                <element signature="e#65420#65511#0" expanded="false" />
+                <element signature="e#65552#65643#0" expanded="false" />
+                <element signature="e#65684#65775#0" expanded="false" />
+                <element signature="e#65816#65907#0" expanded="false" />
+                <element signature="e#65948#66039#0" expanded="false" />
+                <element signature="e#66080#66171#0" expanded="false" />
+                <element signature="e#66212#66303#0" expanded="false" />
+                <element signature="e#66345#66440#0" expanded="false" />
+                <element signature="e#66482#66577#0" expanded="false" />
+                <element signature="e#66619#66714#0" expanded="false" />
+                <element signature="e#66756#66851#0" expanded="false" />
+                <element signature="e#66893#66988#0" expanded="false" />
+                <element signature="e#67030#67125#0" expanded="false" />
+                <element signature="e#67167#67262#0" expanded="false" />
+                <element signature="e#67304#67399#0" expanded="false" />
+                <element signature="e#67441#67536#0" expanded="false" />
+                <element signature="e#67578#67673#0" expanded="false" />
+                <element signature="e#67715#67810#0" expanded="false" />
+                <element signature="e#67852#67947#0" expanded="false" />
+                <element signature="e#67989#68084#0" expanded="false" />
+                <element signature="e#68126#68221#0" expanded="false" />
+                <element signature="e#69502#69679#0" expanded="false" />
+                <element signature="e#69502#78512#0" expanded="false" />
+                <element signature="e#69789#69850#0" expanded="false" />
+                <element signature="e#69855#78508#0" expanded="false" />
+                <element signature="e#73075#73244#0" expanded="false" />
+                <element signature="e#73285#73492#0" expanded="false" />
+                <element signature="e#73533#73778#0" expanded="false" />
+                <element signature="e#73819#74102#0" expanded="false" />
+                <element signature="e#74143#74234#0" expanded="false" />
+                <element signature="e#74275#74366#0" expanded="false" />
+                <element signature="e#74407#74498#0" expanded="false" />
+                <element signature="e#74539#74630#0" expanded="false" />
+                <element signature="e#74671#74762#0" expanded="false" />
+                <element signature="e#74803#74894#0" expanded="false" />
+                <element signature="e#74935#75026#0" expanded="false" />
+                <element signature="e#75067#75158#0" expanded="false" />
+                <element signature="e#75199#75290#0" expanded="false" />
+                <element signature="e#75332#75427#0" expanded="false" />
+                <element signature="e#75469#75564#0" expanded="false" />
+                <element signature="e#75606#75701#0" expanded="false" />
+                <element signature="e#75743#75838#0" expanded="false" />
+                <element signature="e#75880#75975#0" expanded="false" />
+                <element signature="e#76017#76112#0" expanded="false" />
+                <element signature="e#76154#76249#0" expanded="false" />
+                <element signature="e#76291#76386#0" expanded="false" />
+                <element signature="e#76428#76523#0" expanded="false" />
+                <element signature="e#76565#76660#0" expanded="false" />
+                <element signature="e#76702#76797#0" expanded="false" />
+                <element signature="e#76839#76934#0" expanded="false" />
+                <element signature="e#76976#77071#0" expanded="false" />
+                <element signature="e#77113#77208#0" expanded="false" />
+                <element signature="e#78516#78624#0" expanded="false" />
+                <element signature="e#78516#78885#0" expanded="false" />
+                <element signature="e#78806#78859#0" expanded="false" />
+                <element signature="e#78889#78997#0" expanded="false" />
+                <element signature="e#78889#79258#0" expanded="false" />
+                <element signature="e#79090#79107#0" expanded="false" />
+                <element signature="e#79111#79254#0" expanded="false" />
+                <element signature="e#79179#79238#0" expanded="false" />
+                <element signature="e#79262#79337#0" expanded="false" />
+                <element signature="e#79262#79405#0" expanded="false" />
+                <element signature="e#79409#79479#0" expanded="false" />
+                <element signature="e#79409#79551#0" expanded="false" />
+                <element signature="e#79555#79618#0" expanded="false" />
+                <element signature="e#79555#79695#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Terminal/Terminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Terminal/TerminalFeature.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Marketing/UserMarketProfile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ServInfo/UserBasicProfile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ServInfo/ServIdProfile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Interest/InterestTerminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/DataMiningAlgorithm/Matrix.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Model/Closeness.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Model/PairInterestSimilarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Model/ClosenessCalculate.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main/AttributeBuild.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main/ClosenessSimilarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main/InterestFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CDR/CallMapBuild.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/BasicModule/DateUnit.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Config/porn.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/Config/File.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Config/InterestVector" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/edu-bupt/wtist/LiuShifeng/Config/File.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/edu-bupt/wtist/LiuShifeng/Config/InterestVector" />
+        <option value="$PROJECT_DIR$/src/main/scala/BasicAlgorithm/Similarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/BasicAlgorithm/Similarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/CDR/CallMapBuild.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/Model/PairInterestSimilarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/DataMiningAlgorithm/Clustering.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main/InterestTerminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/Terminal/Terminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/ServInfo/UserBasicProfile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/NetFlow/NetFlowFeature.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/Marketing/UserMarketProfile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/Main/InterestTerminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/bupt/wtist/LiuShifeng/Main/InterestFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CallDifference.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Template.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/AttributeBuild.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ClosenessCalculate.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestTerminal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/PairInterestSimilarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestFilter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CallMapBuild.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestNeighbour.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestTree.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TreeNode.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/userInterest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestIDF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestVector" />
+        <option value="$PROJECT_DIR$/run/run_InterestTFIDF.sh" />
+        <option value="$PROJECT_DIR$/src/main/scala/attenuationVector.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Similarity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/InterestTFIDF.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="LiuShifeng" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="LiuShifeng" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClosenesswithSimilarity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClosenesswithSimilarity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuShifeng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\LiuShifeng\IdeaProjects\ClosenesswithSimilarity\src\main\scala" />
+      <recent name="F:\Users\LiuShifeng\IdeaProjects\ClosenesswithSimilarity\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33bc9bec-0c35-446e-a4c6-441a529a17a1" name="Default" comment="" />
+      <created>1422407452850</created>
+      <option name="number" value="Default" />
+      <updated>1422407452850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266564" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32618684" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13388805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32618684" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32618684" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21860817" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32511556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="39" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6352" vertical-offset="3446" max-vertical-offset="29379">
+          <caret line="194" column="32" selection-start-line="194" selection-start-column="32" selection-end-line="194" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4416" vertical-offset="23165" max-vertical-offset="30072">
+          <caret line="1219" column="25" selection-start-line="1219" selection-start-column="25" selection-end-line="1219" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/GraphFeature.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2962024" vertical-offset="991" max-vertical-offset="1386">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.1.0/spark-mllib_2.10-1.1.0.jar!/org/apache/spark/mllib/clustering/KMeans.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3864865" vertical-offset="193" max-vertical-offset="588">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33278418" vertical-offset="5615" max-vertical-offset="9261">
+          <caret line="287" column="6" selection-start-line="287" selection-start-column="6" selection-end-line="287" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/scala/collection/mutable/ArrayBuffer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8682042" vertical-offset="0" max-vertical-offset="3990">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.1.0/spark-mllib_2.10-1.1.0.jar!/org/apache/spark/mllib/util/MLUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.24" vertical-offset="0" max-vertical-offset="672">
+          <caret line="11" column="159" selection-start-line="11" selection-start-column="108" selection-end-line="11" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.1.0/spark-mllib_2.10-1.1.0.jar!/org/apache/spark/mllib/classification/LogisticRegressionWithLBFGS.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.036082473" vertical-offset="0" max-vertical-offset="582">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.92" vertical-offset="0" max-vertical-offset="462">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1.jar!/org/apache/spark/mllib/regression/LabeledPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2264151" vertical-offset="0" max-vertical-offset="371">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.3.1/spark-mllib_2.10-1.3.1.jar!/org/apache/spark/mllib/evaluation/MulticlassMetrics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11320755" vertical-offset="0" max-vertical-offset="567">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tmp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7319078" vertical-offset="2269" max-vertical-offset="4263">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiuShifeng.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3696">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CDRProfile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10606061" vertical-offset="0" max-vertical-offset="1932">
+          <caret line="2" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Clustering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21212122" vertical-offset="0" max-vertical-offset="903">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UserBasicProfile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <caret line="7" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NetFlow.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="7" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NetFlowFeature.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5378973" vertical-offset="74" max-vertical-offset="483">
+          <caret line="14" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UserMarketProfile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114914425" vertical-offset="100" max-vertical-offset="966">
+          <caret line="7" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ClosenessSimilarity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4641">
+          <caret line="12" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Template.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2940">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AttributeBuild.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8988">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ClosenessCalculate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="4536">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/scala/Tuple7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="20" max-vertical-offset="609">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Terminal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="786" max-vertical-offset="1260">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PairInterestSimilarity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="23289">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestTerminal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7386935" vertical-offset="819" max-vertical-offset="1659">
+          <caret line="56" column="146" selection-start-line="56" selection-start-column="146" selection-end-line="56" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TerminalFeature.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58880776" vertical-offset="73" max-vertical-offset="504">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/DateUnit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20588236" vertical-offset="0" max-vertical-offset="5523">
+          <caret line="9" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CallDifference.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.168" vertical-offset="0" max-vertical-offset="625">
+          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FFT.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2352" vertical-offset="0" max-vertical-offset="1659">
+          <caret line="7" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Closeness.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24346405" vertical-offset="61" max-vertical-offset="1890">
+          <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestTree.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16826923" vertical-offset="0" max-vertical-offset="693">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3028846" vertical-offset="0" max-vertical-offset="624">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestMatrixBuild.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2451923" vertical-offset="1638" max-vertical-offset="2310">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.0.0/spark-core_2.10-1.0.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2964745" vertical-offset="1" max-vertical-offset="16149">
+          <caret line="142" column="26" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/File.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="2016">
+          <caret line="28" column="0" selection-start-line="18" selection-start-column="2" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/userInterest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="714">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CallMapBuild.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94974875" vertical-offset="2961" max-vertical-offset="13965">
+          <caret line="163" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="663" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034369886" vertical-offset="168" max-vertical-offset="1680">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/scala/math/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.20192307" vertical-offset="1260" max-vertical-offset="3654">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestVector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1344">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.0.0/spark-core_2.10-1.0.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43552312" vertical-offset="6436" max-vertical-offset="24591">
+          <caret line="356" column="10" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestFilter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33152175" vertical-offset="886" max-vertical-offset="6006">
+          <caret line="48" column="122" selection-start-line="48" selection-start-column="116" selection-end-line="48" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestNeighbour.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38190955" vertical-offset="1276" max-vertical-offset="1743">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ServInterestBuild.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6759411" vertical-offset="1813" max-vertical-offset="6237">
+          <caret line="107" column="39" selection-start-line="107" selection-start-column="39" selection-end-line="107" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ServIdProfile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="4305">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/run_InterestTFIDF.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/attenuationVector.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Similarity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1743">
+          <caret line="461" column="99" selection-start-line="461" selection-start-column="99" selection-end-line="461" selection-end-column="99" />
+          <folding>
+            <element signature="n#!!doc;n#InterestVector$#0" expanded="false" />
+            <element signature="e#138#4131#1" expanded="false" />
+            <element signature="e#4154#4224#0" expanded="false" />
+            <element signature="e#4154#4450#0" expanded="false" />
+            <element signature="e#4348#4435#0" expanded="false" />
+            <element signature="e#4366#4429#0" expanded="false" />
+            <element signature="e#4454#4648#0" expanded="false" />
+            <element signature="e#4454#4830#0" expanded="false" />
+            <element signature="e#4769#4815#0" expanded="false" />
+            <element signature="e#4834#6349#0" expanded="false" />
+            <element signature="e#5086#5119#0" expanded="false" />
+            <element signature="e#5144#5180#0" expanded="false" />
+            <element signature="e#5206#5243#0" expanded="false" />
+            <element signature="e#5269#5306#0" expanded="false" />
+            <element signature="e#5502#5535#0" expanded="false" />
+            <element signature="e#5560#5596#0" expanded="false" />
+            <element signature="e#5622#5659#0" expanded="false" />
+            <element signature="e#5685#5722#0" expanded="false" />
+            <element signature="e#6353#8732#0" expanded="false" />
+            <element signature="e#6637#6670#0" expanded="false" />
+            <element signature="e#6695#6731#0" expanded="false" />
+            <element signature="e#6757#6794#0" expanded="false" />
+            <element signature="e#6820#6857#0" expanded="false" />
+            <element signature="e#7053#7086#0" expanded="false" />
+            <element signature="e#7111#7147#0" expanded="false" />
+            <element signature="e#7173#7210#0" expanded="false" />
+            <element signature="e#7236#7273#0" expanded="false" />
+            <element signature="e#7469#7502#0" expanded="false" />
+            <element signature="e#7527#7563#0" expanded="false" />
+            <element signature="e#7589#7626#0" expanded="false" />
+            <element signature="e#7652#7689#0" expanded="false" />
+            <element signature="e#7885#7918#0" expanded="false" />
+            <element signature="e#7943#7979#0" expanded="false" />
+            <element signature="e#8005#8042#0" expanded="false" />
+            <element signature="e#8068#8105#0" expanded="false" />
+            <element signature="e#8735#11193#0" expanded="false" />
+            <element signature="e#9034#9067#0" expanded="false" />
+            <element signature="e#9092#9128#0" expanded="false" />
+            <element signature="e#9154#9191#0" expanded="false" />
+            <element signature="e#9217#9254#0" expanded="false" />
+            <element signature="e#9450#9483#0" expanded="false" />
+            <element signature="e#9508#9544#0" expanded="false" />
+            <element signature="e#9570#9607#0" expanded="false" />
+            <element signature="e#9633#9670#0" expanded="false" />
+            <element signature="e#9866#9899#0" expanded="false" />
+            <element signature="e#9924#9960#0" expanded="false" />
+            <element signature="e#9986#10023#0" expanded="false" />
+            <element signature="e#10049#10086#0" expanded="false" />
+            <element signature="e#10282#10315#0" expanded="false" />
+            <element signature="e#10340#10376#0" expanded="false" />
+            <element signature="e#10402#10439#0" expanded="false" />
+            <element signature="e#10465#10502#0" expanded="false" />
+            <element signature="e#11196#13658#0" expanded="false" />
+            <element signature="e#11487#11520#0" expanded="false" />
+            <element signature="e#11545#11581#0" expanded="false" />
+            <element signature="e#11607#11644#0" expanded="false" />
+            <element signature="e#11670#11707#0" expanded="false" />
+            <element signature="e#11903#11936#0" expanded="false" />
+            <element signature="e#11961#11997#0" expanded="false" />
+            <element signature="e#12023#12060#0" expanded="false" />
+            <element signature="e#12086#12123#0" expanded="false" />
+            <element signature="e#12319#12352#0" expanded="false" />
+            <element signature="e#12377#12413#0" expanded="false" />
+            <element signature="e#12439#12476#0" expanded="false" />
+            <element signature="e#12502#12539#0" expanded="false" />
+            <element signature="e#12735#12768#0" expanded="false" />
+            <element signature="e#12793#12829#0" expanded="false" />
+            <element signature="e#12855#12892#0" expanded="false" />
+            <element signature="e#12918#12955#0" expanded="false" />
+            <element signature="e#13661#16132#0" expanded="false" />
+            <element signature="e#13953#13986#0" expanded="false" />
+            <element signature="e#14011#14047#0" expanded="false" />
+            <element signature="e#14073#14110#0" expanded="false" />
+            <element signature="e#14136#14173#0" expanded="false" />
+            <element signature="e#14369#14402#0" expanded="false" />
+            <element signature="e#14427#14463#0" expanded="false" />
+            <element signature="e#14489#14526#0" expanded="false" />
+            <element signature="e#14552#14589#0" expanded="false" />
+            <element signature="e#14785#14818#0" expanded="false" />
+            <element signature="e#14843#14879#0" expanded="false" />
+            <element signature="e#14905#14942#0" expanded="false" />
+            <element signature="e#14968#15005#0" expanded="false" />
+            <element signature="e#15201#15234#0" expanded="false" />
+            <element signature="e#15259#15295#0" expanded="false" />
+            <element signature="e#15321#15358#0" expanded="false" />
+            <element signature="e#15384#15421#0" expanded="false" />
+            <element signature="e#16135#18563#0" expanded="false" />
+            <element signature="e#16428#16461#0" expanded="false" />
+            <element signature="e#16486#16522#0" expanded="false" />
+            <element signature="e#16548#16585#0" expanded="false" />
+            <element signature="e#16611#16648#0" expanded="false" />
+            <element signature="e#16844#16877#0" expanded="false" />
+            <element signature="e#16902#16938#0" expanded="false" />
+            <element signature="e#16964#17001#0" expanded="false" />
+            <element signature="e#17027#17064#0" expanded="false" />
+            <element signature="e#17260#17293#0" expanded="false" />
+            <element signature="e#17318#17354#0" expanded="false" />
+            <element signature="e#17380#17417#0" expanded="false" />
+            <element signature="e#17443#17480#0" expanded="false" />
+            <element signature="e#17676#17709#0" expanded="false" />
+            <element signature="e#17734#17770#0" expanded="false" />
+            <element signature="e#17796#17833#0" expanded="false" />
+            <element signature="e#17859#17896#0" expanded="false" />
+            <element signature="e#18566#18680#0" expanded="false" />
+            <element signature="e#18566#19378#0" expanded="false" />
+            <element signature="e#18780#18797#0" expanded="false" />
+            <element signature="e#18801#19374#0" expanded="false" />
+            <element signature="e#19020#19209#0" expanded="false" />
+            <element signature="e#19254#19275#0" expanded="false" />
+            <element signature="e#19280#19368#0" expanded="false" />
+            <element signature="e#19382#19560#0" expanded="false" />
+            <element signature="e#19382#20117#0" expanded="false" />
+            <element signature="e#19672#19689#0" expanded="false" />
+            <element signature="e#19694#20113#0" expanded="false" />
+            <element signature="e#19759#19834#0" expanded="false" />
+            <element signature="e#19795#19826#0" expanded="false" />
+            <element signature="e#19954#20071#0" expanded="false" />
+            <element signature="e#19990#20063#0" expanded="false" />
+            <element signature="e#20121#20227#0" expanded="false" />
+            <element signature="e#20121#20746#0" expanded="false" />
+            <element signature="e#20332#20349#0" expanded="false" />
+            <element signature="e#20353#20742#0" expanded="false" />
+            <element signature="e#20470#20587#0" expanded="false" />
+            <element signature="e#20628#20649#0" expanded="false" />
+            <element signature="e#20654#20736#0" expanded="false" />
+            <element signature="e#20750#20939#0" expanded="false" />
+            <element signature="e#20750#21579#0" expanded="false" />
+            <element signature="e#21044#21061#0" expanded="false" />
+            <element signature="e#21065#21575#0" expanded="false" />
+            <element signature="e#21221#21324#0" expanded="false" />
+            <element signature="e#21464#21485#0" expanded="false" />
+            <element signature="e#21489#21569#0" expanded="false" />
+            <element signature="e#21583#21692#0" expanded="false" />
+            <element signature="e#21583#22102#0" expanded="false" />
+            <element signature="e#21787#21804#0" expanded="false" />
+            <element signature="e#21808#22098#0" expanded="false" />
+            <element signature="e#21906#22005#0" expanded="false" />
+            <element signature="e#22031#22053#0" expanded="false" />
+            <element signature="e#22057#22092#0" expanded="false" />
+            <element signature="e#22106#22214#0" expanded="false" />
+            <element signature="e#22106#22682#0" expanded="false" />
+            <element signature="e#22309#22326#0" expanded="false" />
+            <element signature="e#22330#22678#0" expanded="false" />
+            <element signature="e#22440#22543#0" expanded="false" />
+            <element signature="e#22598#22619#0" expanded="false" />
+            <element signature="e#22623#22672#0" expanded="false" />
+            <element signature="e#22686#22804#0" expanded="false" />
+            <element signature="e#22686#22929#0" expanded="false" />
+            <element signature="e#22933#23051#0" expanded="false" />
+            <element signature="e#22933#23176#0" expanded="false" />
+            <element signature="e#23202#23373#0" expanded="false" />
+            <element signature="e#23202#32374#0" expanded="false" />
+            <element signature="e#23489#23550#0" expanded="false" />
+            <element signature="e#23555#32370#0" expanded="false" />
+            <element signature="e#26775#26944#0" expanded="false" />
+            <element signature="e#26985#27192#0" expanded="false" />
+            <element signature="e#27233#27478#0" expanded="false" />
+            <element signature="e#27519#27802#0" expanded="false" />
+            <element signature="e#27843#27934#0" expanded="false" />
+            <element signature="e#27975#28066#0" expanded="false" />
+            <element signature="e#28107#28198#0" expanded="false" />
+            <element signature="e#28239#28330#0" expanded="false" />
+            <element signature="e#28371#28462#0" expanded="false" />
+            <element signature="e#28503#28594#0" expanded="false" />
+            <element signature="e#28635#28726#0" expanded="false" />
+            <element signature="e#28767#28858#0" expanded="false" />
+            <element signature="e#28899#28990#0" expanded="false" />
+            <element signature="e#29032#29127#0" expanded="false" />
+            <element signature="e#29169#29264#0" expanded="false" />
+            <element signature="e#29306#29401#0" expanded="false" />
+            <element signature="e#29443#29538#0" expanded="false" />
+            <element signature="e#29580#29675#0" expanded="false" />
+            <element signature="e#29717#29812#0" expanded="false" />
+            <element signature="e#29854#29949#0" expanded="false" />
+            <element signature="e#29991#30086#0" expanded="false" />
+            <element signature="e#30128#30223#0" expanded="false" />
+            <element signature="e#30265#30360#0" expanded="false" />
+            <element signature="e#30402#30497#0" expanded="false" />
+            <element signature="e#30539#30634#0" expanded="false" />
+            <element signature="e#30676#30771#0" expanded="false" />
+            <element signature="e#30813#30908#0" expanded="false" />
+            <element signature="e#32378#32613#0" expanded="false" />
+            <element signature="e#32378#41940#0" expanded="false" />
+            <element signature="e#32731#32792#0" expanded="false" />
+            <element signature="e#32797#41936#0" expanded="false" />
+            <element signature="e#36017#36186#0" expanded="false" />
+            <element signature="e#36227#36434#0" expanded="false" />
+            <element signature="e#36475#36720#0" expanded="false" />
+            <element signature="e#36761#37044#0" expanded="false" />
+            <element signature="e#37085#37176#0" expanded="false" />
+            <element signature="e#37217#37308#0" expanded="false" />
+            <element signature="e#37349#37440#0" expanded="false" />
+            <element signature="e#37481#37572#0" expanded="false" />
+            <element signature="e#37613#37704#0" expanded="false" />
+            <element signature="e#37745#37836#0" expanded="false" />
+            <element signature="e#37877#37968#0" expanded="false" />
+            <element signature="e#38009#38100#0" expanded="false" />
+            <element signature="e#38141#38232#0" expanded="false" />
+            <element signature="e#38274#38369#0" expanded="false" />
+            <element signature="e#38411#38506#0" expanded="false" />
+            <element signature="e#38548#38643#0" expanded="false" />
+            <element signature="e#38685#38780#0" expanded="false" />
+            <element signature="e#38822#38917#0" expanded="false" />
+            <element signature="e#38959#39054#0" expanded="false" />
+            <element signature="e#39096#39191#0" expanded="false" />
+            <element signature="e#39233#39328#0" expanded="false" />
+            <element signature="e#39370#39465#0" expanded="false" />
+            <element signature="e#39507#39602#0" expanded="false" />
+            <element signature="e#39644#39739#0" expanded="false" />
+            <element signature="e#39781#39876#0" expanded="false" />
+            <element signature="e#39918#40013#0" expanded="false" />
+            <element signature="e#40055#40150#0" expanded="false" />
+            <element signature="e#41944#42107#0" expanded="false" />
+            <element signature="e#41944#51192#0" expanded="false" />
+            <element signature="e#42226#42287#0" expanded="false" />
+            <element signature="e#42292#51188#0" expanded="false" />
+            <element signature="e#45512#45681#0" expanded="false" />
+            <element signature="e#45722#45929#0" expanded="false" />
+            <element signature="e#45970#46215#0" expanded="false" />
+            <element signature="e#46256#46539#0" expanded="false" />
+            <element signature="e#46580#46671#0" expanded="false" />
+            <element signature="e#46712#46803#0" expanded="false" />
+            <element signature="e#46844#46935#0" expanded="false" />
+            <element signature="e#46976#47067#0" expanded="false" />
+            <element signature="e#47108#47199#0" expanded="false" />
+            <element signature="e#47240#47331#0" expanded="false" />
+            <element signature="e#47372#47463#0" expanded="false" />
+            <element signature="e#47504#47595#0" expanded="false" />
+            <element signature="e#47636#47727#0" expanded="false" />
+            <element signature="e#47769#47864#0" expanded="false" />
+            <element signature="e#47906#48001#0" expanded="false" />
+            <element signature="e#48043#48138#0" expanded="false" />
+            <element signature="e#48180#48275#0" expanded="false" />
+            <element signature="e#48317#48412#0" expanded="false" />
+            <element signature="e#48454#48549#0" expanded="false" />
+            <element signature="e#48591#48686#0" expanded="false" />
+            <element signature="e#48728#48823#0" expanded="false" />
+            <element signature="e#48865#48960#0" expanded="false" />
+            <element signature="e#49002#49097#0" expanded="false" />
+            <element signature="e#49139#49234#0" expanded="false" />
+            <element signature="e#49276#49371#0" expanded="false" />
+            <element signature="e#49413#49508#0" expanded="false" />
+            <element signature="e#49550#49645#0" expanded="false" />
+            <element signature="e#51196#51372#0" expanded="false" />
+            <element signature="e#51196#60513#0" expanded="false" />
+            <element signature="e#51493#51554#0" expanded="false" />
+            <element signature="e#51559#60509#0" expanded="false" />
+            <element signature="e#54779#54948#0" expanded="false" />
+            <element signature="e#54989#55196#0" expanded="false" />
+            <element signature="e#55237#55482#0" expanded="false" />
+            <element signature="e#55523#55806#0" expanded="false" />
+            <element signature="e#55847#55938#0" expanded="false" />
+            <element signature="e#55979#56070#0" expanded="false" />
+            <element signature="e#56111#56202#0" expanded="false" />
+            <element signature="e#56243#56334#0" expanded="false" />
+            <element signature="e#56375#56466#0" expanded="false" />
+            <element signature="e#56507#56598#0" expanded="false" />
+            <element signature="e#56639#56730#0" expanded="false" />
+            <element signature="e#56771#56862#0" expanded="false" />
+            <element signature="e#56903#56994#0" expanded="false" />
+            <element signature="e#57036#57131#0" expanded="false" />
+            <element signature="e#57173#57268#0" expanded="false" />
+            <element signature="e#57310#57405#0" expanded="false" />
+            <element signature="e#57447#57542#0" expanded="false" />
+            <element signature="e#57584#57679#0" expanded="false" />
+            <element signature="e#57721#57816#0" expanded="false" />
+            <element signature="e#57858#57953#0" expanded="false" />
+            <element signature="e#57995#58090#0" expanded="false" />
+            <element signature="e#58132#58227#0" expanded="false" />
+            <element signature="e#58269#58364#0" expanded="false" />
+            <element signature="e#58406#58501#0" expanded="false" />
+            <element signature="e#58543#58638#0" expanded="false" />
+            <element signature="e#58680#58775#0" expanded="false" />
+            <element signature="e#58817#58912#0" expanded="false" />
+            <element signature="e#60517#60693#0" expanded="false" />
+            <element signature="e#60517#69498#0" expanded="false" />
+            <element signature="e#60802#60863#0" expanded="false" />
+            <element signature="e#60868#69494#0" expanded="false" />
+            <element signature="e#64088#64257#0" expanded="false" />
+            <element signature="e#64298#64505#0" expanded="false" />
+            <element signature="e#64546#64791#0" expanded="false" />
+            <element signature="e#64832#65115#0" expanded="false" />
+            <element signature="e#65156#65247#0" expanded="false" />
+            <element signature="e#65288#65379#0" expanded="false" />
+            <element signature="e#65420#65511#0" expanded="false" />
+            <element signature="e#65552#65643#0" expanded="false" />
+            <element signature="e#65684#65775#0" expanded="false" />
+            <element signature="e#65816#65907#0" expanded="false" />
+            <element signature="e#65948#66039#0" expanded="false" />
+            <element signature="e#66080#66171#0" expanded="false" />
+            <element signature="e#66212#66303#0" expanded="false" />
+            <element signature="e#66345#66440#0" expanded="false" />
+            <element signature="e#66482#66577#0" expanded="false" />
+            <element signature="e#66619#66714#0" expanded="false" />
+            <element signature="e#66756#66851#0" expanded="false" />
+            <element signature="e#66893#66988#0" expanded="false" />
+            <element signature="e#67030#67125#0" expanded="false" />
+            <element signature="e#67167#67262#0" expanded="false" />
+            <element signature="e#67304#67399#0" expanded="false" />
+            <element signature="e#67441#67536#0" expanded="false" />
+            <element signature="e#67578#67673#0" expanded="false" />
+            <element signature="e#67715#67810#0" expanded="false" />
+            <element signature="e#67852#67947#0" expanded="false" />
+            <element signature="e#67989#68084#0" expanded="false" />
+            <element signature="e#68126#68221#0" expanded="false" />
+            <element signature="e#69502#69679#0" expanded="false" />
+            <element signature="e#69502#78512#0" expanded="false" />
+            <element signature="e#69789#69850#0" expanded="false" />
+            <element signature="e#69855#78508#0" expanded="false" />
+            <element signature="e#73075#73244#0" expanded="false" />
+            <element signature="e#73285#73492#0" expanded="false" />
+            <element signature="e#73533#73778#0" expanded="false" />
+            <element signature="e#73819#74102#0" expanded="false" />
+            <element signature="e#74143#74234#0" expanded="false" />
+            <element signature="e#74275#74366#0" expanded="false" />
+            <element signature="e#74407#74498#0" expanded="false" />
+            <element signature="e#74539#74630#0" expanded="false" />
+            <element signature="e#74671#74762#0" expanded="false" />
+            <element signature="e#74803#74894#0" expanded="false" />
+            <element signature="e#74935#75026#0" expanded="false" />
+            <element signature="e#75067#75158#0" expanded="false" />
+            <element signature="e#75199#75290#0" expanded="false" />
+            <element signature="e#75332#75427#0" expanded="false" />
+            <element signature="e#75469#75564#0" expanded="false" />
+            <element signature="e#75606#75701#0" expanded="false" />
+            <element signature="e#75743#75838#0" expanded="false" />
+            <element signature="e#75880#75975#0" expanded="false" />
+            <element signature="e#76017#76112#0" expanded="false" />
+            <element signature="e#76154#76249#0" expanded="false" />
+            <element signature="e#76291#76386#0" expanded="false" />
+            <element signature="e#76428#76523#0" expanded="false" />
+            <element signature="e#76565#76660#0" expanded="false" />
+            <element signature="e#76702#76797#0" expanded="false" />
+            <element signature="e#76839#76934#0" expanded="false" />
+            <element signature="e#76976#77071#0" expanded="false" />
+            <element signature="e#77113#77208#0" expanded="false" />
+            <element signature="e#78516#78624#0" expanded="false" />
+            <element signature="e#78516#78885#0" expanded="false" />
+            <element signature="e#78806#78859#0" expanded="false" />
+            <element signature="e#78889#78997#0" expanded="false" />
+            <element signature="e#78889#79258#0" expanded="false" />
+            <element signature="e#79090#79107#0" expanded="false" />
+            <element signature="e#79111#79254#0" expanded="false" />
+            <element signature="e#79179#79238#0" expanded="false" />
+            <element signature="e#79262#79337#0" expanded="false" />
+            <element signature="e#79262#79405#0" expanded="false" />
+            <element signature="e#79409#79479#0" expanded="false" />
+            <element signature="e#79409#79551#0" expanded="false" />
+            <element signature="e#79555#79618#0" expanded="false" />
+            <element signature="e#79555#79695#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/InterestTFIDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0577888" vertical-offset="3760" max-vertical-offset="5922">
+          <caret line="239" column="58" selection-start-line="239" selection-start-column="58" selection-end-line="239" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
